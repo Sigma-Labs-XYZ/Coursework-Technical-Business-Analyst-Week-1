@@ -30,10 +30,13 @@ Create a first-pass table.
 
 | Stakeholder concern | Likely process area affected | Possible metric or evidence source | Likely deliverable |
 |---|---|---|---|
-| TODO | TODO | TODO | TODO |
+| Missed follow-ups | Case ownership and handoffs | % of scheduled follow-ups completed, pending callback cases | As-Is process map |
+| Duplicate agent effort | Customer contact and case handling | Duplicate contacts, time spent checking previous activity | Pain-point analysis |
+| Wasted agent time | Manual case handling | Average handling time, time spent on manual tasks | Baseline analysis |
+| Automation pushing complex cases back to agents | Case identification and routing | % of cases requiring agent intervention, agent feedback | Proposed workflow |
+| Unproven financial benefits | Recovery performance | Recovery rates, handling costs, revenue loss, sensitivity testing | Financial value case |
+| Recommendations being difficult to build | Requirements and solution design | Traceability between pain points, opportunities and requirements | Requirements/backlog |
 
 ## 5. Final problem statement
 
-End with a concise problem statement in your own words.
-
-> Tip: if your statement still sounds like 'the bank needs digital transformation,' it is too broad.
+Legacy Trust's debt recovery process relies on outdated systems, spreadsheets and manual workarounds to manage over 100,000 delinquent accounts across 50+ agents. This makes it difficult to consistently track case status, ownership and follow-ups, resulting in missed actions, duplicate effort and wasted agent capacity. Straightforward and complex cases also follow the same manual processes, limiting agents' ability to focus their time on cases that require human judgement. These inefficiencies are contributing to delayed recoveries and an estimated 15% revenue loss.
