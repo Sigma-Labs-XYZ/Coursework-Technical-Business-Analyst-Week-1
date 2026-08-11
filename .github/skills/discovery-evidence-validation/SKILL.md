@@ -165,9 +165,9 @@ Update your brief or document with:
 - "Surface blockers in my discovery that could derail Phase 1 scope."
 - "Validate that my problem statement is specific enough to build requirements from."
 
-## Related Skills & Customizations to Create
+## Related Skills & Customisations to Create
 
-- **TBA JTBD Prioritization** — Convert evidence-grounded pain points to Jobs-to-be-Done
+- **TBA JTBD Prioritisation** — Convert evidence-grounded pain points to Jobs-to-be-Done
 - **Process Gap Analysis** — Map current state (As-Is) to problems; surface failure points
 - **Financial Model Validation** — Ensure ROI model separates data, assumptions, formulas
 - **Stakeholder Tension Mapping** — Identify conflicting priorities and resolution paths
