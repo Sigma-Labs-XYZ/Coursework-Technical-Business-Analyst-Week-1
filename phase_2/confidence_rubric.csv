@@ -1,0 +1,4 @@
+confidence level,criteria
+High,"Theme-level confidence: >= 12 coded notes, >= 10 unique stakeholders, and >= 5 roles."
+Medium,"Theme-level confidence: 7-11 coded notes OR 6-9 unique stakeholders, with >= 4 roles."
+Low,Theme-level confidence: below Medium thresholds or very narrow signal spread.
