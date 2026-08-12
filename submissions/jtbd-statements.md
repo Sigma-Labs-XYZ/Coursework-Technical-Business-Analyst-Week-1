@@ -28,3 +28,35 @@ This document contains evidence-grounded JTBD statements generated from stakehol
 - Operations manager actor: JTBD-03
 - Finance partner actor: JTBD-04
 - Additional actors: Finance analyst (JTBD-05), Operations team lead (JTBD-06), Compliance officer (JTBD-07)
+
+## Independent Evidence Count Per JTBD
+
+Counting method used:
+- Scope: all relevant notes in the mapped theme from [docs/stakeholder-evidence-tables.md](../docs/stakeholder-evidence-tables.md).
+- Independent evidence: unique stakeholder names only (strict exact-name matching).
+- Repeated mentions by the same stakeholder increase note count, but not independent evidence count.
+- Blank stakeholder names are treated as separate unknown records by note ID.
+
+Frequency rating methodology:
+- Rating is based on independent stakeholder count (not raw mentions).
+- High: 5 or more independent stakeholders.
+- Medium: 3 to 4 independent stakeholders.
+- Low: 1 to 2 independent stakeholders.
+
+Business impact rating methodology:
+- High: directly affects revenue/recoveries, significant costs, compliance/risk, or ability to operate effectively.
+- Medium: causes meaningful wasted time, inefficiency, delays, or customer problems, but does not have a strong/direct link to major business outcomes.
+- Low: mostly inconvenience or minor friction, with limited effect on cost, revenue, risk, or performance.
+
+| JTBD ID | Mapped theme | Independent stakeholders (count) | Frequency rating | Business impact rating |
+|---|---|---:|---|---|
+| JTBD-01 | customer friction | 4 | Medium | High |
+| JTBD-02 | duplicated work | 5 | High | Medium |
+| JTBD-03 | poor account-status visibility | 7 | High | Medium |
+| JTBD-04 | customer friction | 4 | Medium | High |
+| JTBD-05 | low confidence in reporting and forecasting | 4 | Medium | High |
+| JTBD-06 | delayed or missed followup | 4 | Medium | High |
+| JTBD-07 | compliance and audit trail gaps | 5 | High | High |
+
+Interpretation note:
+- A higher independent-stakeholder count shows broader, cross-stakeholder evidence.
