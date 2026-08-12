@@ -1,9 +1,0 @@
-item_type,source_reference,stakeholder_concern,related_process_area,related_jtbd,possible_metric,likely_deliverable,status
-stakeholder_note,SN-063,Agents repeat checks before acting,manual_status_verification,pending_phase_2,duplicate_check_rate,discovery_dossier,Open
-stakeholder_note,SN-071,Finance needs defensible assumptions,roi_model_governance,pending_phase_2,source_confidence_coverage,roi_model,Open
-stakeholder_note,SN-108,Routed cases must return with context,agent_handoff,pending_phase_2,routed_case_context_visibility,to_be_workflow,Open
-pain_point,PP-001,No single record of what has happened on an account,record_fragmentation,pending_phase_2,systems_checked_per_case,to_be_workflow,Open
-stakeholder_note,SN-079,Cannot identify straightforward versus specialist cases,case_triage,pending_phase_2,straightforward_case_volume_per_month,to_be_workflow,Open
-stakeholder_note,SN-118,Callback dates are never enforced so cases stall,follow_up_scheduling,pending_phase_2,missed_follow_up_rate,as_is_process_map,Open
-stakeholder_note,SN-036,Customers repeat their situation at every transfer,customer_contact_journey,pending_phase_2,contacts_per_resolved_account,discovery_dossier,Open
-pain_point,PP-002,Follow-up commitments are not enforced by any system,follow_up_scheduling,pending_phase_2,overdue_callback_case_share,to_be_workflow,Open

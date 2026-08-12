@@ -48,15 +48,29 @@ Portal relevance rubric:
 
 Priority rubric:
 - Inputs: repeat backing count + theme confidence from theme_summary.csv, plus business impact/risk from stakeholder_evidence_table.csv.
+- Frequency of evidence mapping (from evidence count): High = 8 or more SN tags, Medium = 5-7 SN tags, Low = 1-4 SN tags.
 - High: strong repeated signal and confidence, with immediate operational, recovery, or compliance impact.
 - Medium: meaningful impact, but lower urgency, narrower scope, or lower evidence strength than high items.
+- Tie-break rule: for top-priority ties, rank portal relevance before evidence count. If portal relevance is equal, then rank by evidence count (deduplicated SN tags) in descending order.
 
 ## Step 4: Top 3 justification
 
-For each of your top 3 JTBDs, write:
-- why it matters now
-- which evidence supports it
-- how it should influence Phase 1
+Top 3 unmet jobs were selected from the [JTBD table](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=1397865542#gid=1397865542) based on strongest combined ranking across frequency of evidence, business impact, and relevance to the portal.
+
+### JTBD-01: single trusted account history
+- Why it matters now: Agents spend material time reconstructing case history, slowing throughput and weakening compliance defensibility.
+- Evidence: High-frequency signal from SN-008; SN-010; SN-015; SN-025; SN-027; SN-062; SN-066; SN-087; SN-096.
+- Influence on Phase 1 scope: Prioritise a unified case timeline and status history as a core foundation capability.
+
+### JTBD-02: enforced follow-up workflow
+- Why it matters now: Missed or delayed follow-ups directly reduce recoveries and create avoidable leakage.
+- Evidence: High-frequency signal from SN-007; SN-011; SN-040; SN-045; SN-049; SN-053; SN-067; SN-118.
+- Influence on Phase 1 scope: Include callback-date control, ownership handoff rules, and exception alerts in the first release scope.
+
+### JTBD-04: clear customer resolution journey
+- Why it matters now: Repeat customer contact and unclear next steps increase friction, rework, and time-to-resolution.
+- Evidence: Medium-frequency signal from SN-001; SN-002; SN-017; SN-028; SN-036; SN-047; SN-065.
+- Influence on Phase 1 scope: Prioritise clear customer case visibility, next-step guidance, and clean self-serve-to-agent routing.
 
 ## Quality check
 
