@@ -24,17 +24,15 @@ Legacy Trust's debt recovery process is struggling to manage over 100,000 delinq
 
 ## 4. Traceability starter
 
-| Stakeholder concern | Likely process area affected | Possible metric or evidence source | Likely deliverable |
-|---|---|---|---|
-| Missed follow-ups and callback enforcement | Case ownership and shift handoffs | % of scheduled follow-ups completed; "pending callback" status aging; shift handoff documentation; 20% follow-up loss at handoff | As-Is process map highlighting callback enforcement gap |
-| Duplicate agent effort and re-contact | Customer contact tracking and case history | Duplicate contact rate; re-contact audit; % of customers contacted >1x unnecessarily; customer complaint rate | Pain-point analysis with contact deduplication rules |
-| Wasted agent time on manual/admin work | Manual case handling and information search | Average handling time by case type (baseline 18 mins vs. 10-min target); agent time breakdown (% calling vs. admin); data re-keying audit | Baseline analysis identifying time-wasting activities |
-| Data fragmentation and system siloing | Case data storage and sync between systems | Data reconciliation failure rate; system audit trail scattered across email/spreadsheet/database; status inconsistency audit | Data quality assessment and system integration map |
-| Unclear routing and mixed case queues | Case classification and queue assignment | % of cases in correct queue; mis-routing rate; status definition inconsistency across teams; queue wait time by case type | Proposed workflow with documented routing rules |
-| Compliance risk and edge cases | Compliance and risk case handling | Vulnerability case volume; hardship/forbearance case count; compliance audit findings; edge case inventory | Risk mapping and compliance gates in proposed workflow |
-| Agent resistance and change failure risk | Change management and adoption readiness | Prior system failure root-cause analysis; team adoption curve forecast; change readiness assessment | Change readiness plan addressing resistance |
-| Unproven financial benefits | Recovery performance and cost savings | Current recovery rate by case type; agent hourly cost; baseline handling time; 15% revenue loss breakdown; sensitivity analysis | Financial value case with transparent assumptions and testing |
-| Customer awareness and self-service readiness | Self-service eligibility and channel awareness | % of customers wanting self-service vs. needing agent support; feature preference ranking; online payment awareness gap; escalation rules | Customer segmentation model and self-service feature specification |
+| Priority JTBD | Stakeholder evidence (from interview notes) | Likely process area affected | Possible metric or evidence source | Likely later deliverables |
+|---|---|---|---|---|
+| JTBD-01: Clear balance and repayment options | SN-065, SN-002, SN-028, SN-036, SN-047 | Customer communication clarity and self-service guidance | Repeat contact rate; payment plan uptake; self-service completion rate; complaint rate on unclear balances | Customer-facing balance and options flow; content and communication standards; self-service journey map |
+| JTBD-04: Clear and consistent customer guidance | SN-002, SN-028, SN-036, SN-047 | Contact guidance and next-step consistency | Repeat contact volume; first-contact resolution proxy; avoidable re-contact audit | Standardised guidance model; decision-tree content for customer journeys; handoff communication standards |
+| JTBD-07: Complete and traceable audit trail | SN-008, SN-066, SN-060, SN-111, SN-047 | Audit trail integrity, compliance controls, and evidence capture | Audit evidence completeness rate; manual re-keying rate; compliance approval cycle time | Audit-trail requirements specification; compliance control points in To-Be process; case-history data model |
+
+Priority rationale:
+- These JTBDs are currently highest under the equally weighted model in [jtbd-statements](jtbd-statements.md): JTBD-01 (8), JTBD-04 (8), JTBD-07 (8).
+- Each has broad independent stakeholder evidence and clear links to Phase 1 deliverables.
 
 ## 5. Final problem statement
 

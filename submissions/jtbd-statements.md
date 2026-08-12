@@ -48,15 +48,34 @@ Business impact rating methodology:
 - Medium: causes meaningful wasted time, inefficiency, delays, or customer problems, but does not have a strong/direct link to major business outcomes.
 - Low: mostly inconvenience or minor friction, with limited effect on cost, revenue, risk, or performance.
 
-| JTBD ID | Mapped theme | Independent stakeholders (count) | Frequency rating | Business impact rating |
-|---|---|---:|---|---|
-| JTBD-01 | customer friction | 4 | Medium | High |
-| JTBD-02 | duplicated work | 5 | High | Medium |
-| JTBD-03 | poor account-status visibility | 7 | High | Medium |
-| JTBD-04 | customer friction | 4 | Medium | High |
-| JTBD-05 | low confidence in reporting and forecasting | 4 | Medium | High |
-| JTBD-06 | delayed or missed followup | 4 | Medium | High |
-| JTBD-07 | compliance and audit trail gaps | 5 | High | High |
+Portal implementation relevance methodology:
+- High: the portal would directly address the JTBD through its core functionality.
+- Medium: the portal would partially support the JTBD, but other systems/process changes would also be needed.
+- Low: the JTBD is mostly outside the portal's scope and would need a different solution.
+
+Equally weighted prioritisation scoring system:
+- Purpose: identify the most important JTBDs using a consistent, simple scoring approach.
+- Inputs used (equal weight): Frequency rating, Business impact rating, Portal implementation relevance.
+- Score conversion: High = 3, Medium = 2, Low = 1.
+- Total priority score: Frequency score + Business impact score + Portal relevance score.
+- Maximum possible score: 9.
+
+| JTBD ID | Mapped theme | Independent stakeholders (count) | Frequency rating | Business impact rating | Portal implementation relevance | Total priority score (max 9) |
+|---|---|---:|---|---|---|---:|
+| JTBD-01 | customer friction | 4 | Medium | High | High | 8 |
+| JTBD-02 | duplicated work | 5 | High | Medium | Medium | 7 |
+| JTBD-03 | poor account-status visibility | 7 | High | Medium | Medium | 7 |
+| JTBD-04 | customer friction | 4 | Medium | High | High | 8 |
+| JTBD-05 | low confidence in reporting and forecasting | 4 | Medium | High | Low | 6 |
+| JTBD-06 | delayed or missed followup | 4 | Medium | High | Medium | 7 |
+| JTBD-07 | compliance and audit trail gaps | 5 | High | High | Medium | 8 |
 
 Interpretation note:
-- A higher independent-stakeholder count shows broader, cross-stakeholder evidence.
+- JTBD-01 – Clear balance and repayment options (Score: 8/9)
+This job matters because unclear balances and repayment options create friction for customers trying to resolve their debt and may delay recovery. It is supported by evidence from 4 independent stakeholders, including SN-065, which identifies customer difficulty in understanding balances and repayment options. For Phase 1, this could prioritise functionality that allows customers to view their outstanding balance and understand available repayment options.
+
+- JTBD-04 – Clear and consistent customer guidance — 8/9
+This job matters because unclear or inconsistent guidance can drive repeat customer contact, increasing handling time and operational costs. It is supported by evidence from 4 independent stakeholders, including SN-002, which links customer communication issues to repeat contact and avoidable cost. For Phase 1, this could prioritise clear, standardised guidance that allows customers to understand and complete their next steps without contacting an agent.
+
+- JTBD-07 – Complete and traceable audit trail — 8/9
+This job matters because incomplete case histories make it difficult to evidence decisions and create compliance and governance risk. It is supported by evidence from 5 independent stakeholders, including SN-008 and SN-066, which highlight the need for greater traceability in recovery activity. For Phase 1, this could require customer interactions and status changes made through the portal to be consistently recorded and traceable.
