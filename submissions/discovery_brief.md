@@ -16,7 +16,7 @@ Delayed actions and inconsistent follow-up are estimated to contribute to a 15% 
 
 ## 2. Stakeholder overview
 
-[Stakeholder overview table](https://docs.google.com/spreadsheets/d/1D6G-XLoXL159EHnwldRUPgpBxHP6j6E4clmu9NI81dY/edit?usp=sharing)
+[Stakeholder overview](https://docs.google.com/spreadsheets/d/1D6G-XLoXL159EHnwldRUPgpBxHP6j6E4clmu9NI81dY/edit?usp=sharing)
 
 ## 3. Discovery questions
 
