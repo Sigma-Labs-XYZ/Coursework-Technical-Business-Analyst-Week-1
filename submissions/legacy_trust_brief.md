@@ -22,17 +22,29 @@ Legacy Trust's debt recovery process is struggling to manage over 100,000 delinq
 - What are the current baseline measures for handling time, follow-up completion and recovery performance?
 - What financial and operational improvement would Phase 1 need to demonstrate for leadership to consider it successful?
 
-## 4. Traceability starter
+## 4. Traceability: JTBDs, Pain Points, and Automation Opportunities
 
-| Priority JTBD | Stakeholder evidence (from interview notes) | Likely process area affected | Possible metric or evidence source | Likely later deliverables |
+| Priority JTBD | Stakeholder evidence | Process pain points addressed | Automation opportunities | Likely Phase 1 deliverables |
 |---|---|---|---|---|
-| JTBD-01: Clear balance and repayment options | SN-065, SN-002, SN-028, SN-036, SN-047 | Customer communication clarity and self-service guidance | Repeat contact rate; payment plan uptake; self-service completion rate; complaint rate on unclear balances | Customer-facing balance and options flow; content and communication standards; self-service journey map |
-| JTBD-04: Clear and consistent customer guidance | SN-002, SN-028, SN-036, SN-047 | Contact guidance and next-step consistency | Repeat contact volume; first-contact resolution proxy; avoidable re-contact audit | Standardised guidance model; decision-tree content for customer journeys; handoff communication standards |
-| JTBD-07: Complete and traceable audit trail | SN-008, SN-066, SN-060, SN-111, SN-047 | Audit trail integrity, compliance controls, and evidence capture | Audit evidence completeness rate; manual re-keying rate; compliance approval cycle time | Audit-trail requirements specification; compliance control points in To-Be process; case-history data model |
+| JTBD-01: Clear balance and repayment options | SN-065, SN-002, SN-028, SN-036, SN-047 | Duplicate status checks; Repeated customer contact attempts | Customer account and balance viewing; Online payments | Customer-facing balance and options flow; Self-service payment interface; Content and communication standards |
+| JTBD-04: Clear and consistent customer guidance | SN-002, SN-028, SN-036, SN-047 | Repeated customer contact attempts; Duplicate status checks | Customer contact detail updates; Online payments | Standardised guidance model; Decision-tree content for customer journeys; Contact validation rules |
+| JTBD-05: Trustworthy and timely data for forecasting | SN-070, SN-048, SN-031 | Manager reporting based on reconciliation rather than live reporting | Automated promise-to-pay tracking | Live reporting dashboard; Activity data reconciliation elimination; Finance data refresh frequency |
+| JTBD-06: Owned and enforced follow-up handoffs | SN-007, SN-040, SN-053, SN-118, SN-105 | Missed next action due to manual tracking; Poor visibility of promise-to-pay fulfillment; Repeated customer contact attempts | Self-service payment arrangements; Automated payment reminders; Automated promise-to-pay tracking | Callback date enforcement rules; Shift handoff protocols; Automated reminder workflows |
+| JTBD-07: Complete and traceable audit trail | SN-008, SN-066, SN-060, SN-111, SN-047 | Manager reporting based on reconciliation; Duplicate status checks | Automated promise-to-pay tracking; Customer contact detail updates; Online payments | Audit-trail requirements specification; Compliance control points in To-Be process; Unified case-history data model |
 
-Priority rationale:
-- These JTBDs are currently highest under the equally weighted model in [jtbd-statements](jtbd-statements.md): JTBD-01 (8), JTBD-04 (8), JTBD-07 (8).
-- Each has broad independent stakeholder evidence and clear links to Phase 1 deliverables.
+**Automation Opportunities Summary:**
+- Customer account and balance viewing – eliminates duplicate status checks
+- Online payments – reduces repeated customer contact attempts and manual payment recording
+- Self-service payment arrangements – enforces and tracks payment commitments automatically
+- Automated payment reminders – replaces manual scheduling and reduces missed follow-ups
+- Automated promise-to-pay tracking – provides live visibility for managers and eliminates manual reconciliation
+- Customer contact detail updates – reduces failed contact attempts from outdated information
+
+**Priority rationale:**
+- JTBD-01, JTBD-04, and JTBD-07 score 8/9 under the equally weighted model and are highest priority
+- JTBD-05 and JTBD-06 score 7/9 and address critical operational pain points
+- Each JTBD is now linked to specific automation opportunities that eliminate identified pain points
+- All opportunities support Phase 1 scope and are traceable to stakeholder evidence
 
 ## 5. Final problem statement
 
