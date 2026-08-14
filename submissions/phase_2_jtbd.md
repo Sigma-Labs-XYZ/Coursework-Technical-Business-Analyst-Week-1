@@ -46,9 +46,3 @@
     - Evidence: SN-001, SN-017, SN-033
     - Influence on Phase 1: Providing clear information upfront will enable customers to make informed decisions and take action, reducing the need for agent intervention and improving overall efficiency.
 
-## Quality check
-
-Ask yourself:
-- Does this describe a need instead of a feature?
-- Would the job still exist if the screen or tool changed?
-- Can I point to real evidence behind the priority?

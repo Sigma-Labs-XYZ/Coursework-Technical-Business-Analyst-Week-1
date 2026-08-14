@@ -11,14 +11,8 @@
 
 ## Self-service suitability test
 
-A step is a better Phase 1 candidate if it is:
-- high-volume
-- repeatable
-- rules-driven
-- low to medium risk
-- understandable for customers
 
-## 5 automation opportunities
+### 5 Automation Opportunities
 1. Self-serve portal for customers to confirm balances and get their current account information/summary.
 2. Automated direct payment processing for customers who want to pay their debt on their own schedule/immediately, without waiting for an agent. It should instantly update the core database.
 3. Automated "Promise-to-Pay" setup and tracking, so customers can select a future date to make a payment. The system automatically tracks this date and automatically follows up if the payment is missed via email or SMS. Removes the need for a spreadsheet to track promises and reduces agent time spent on follow-up.
