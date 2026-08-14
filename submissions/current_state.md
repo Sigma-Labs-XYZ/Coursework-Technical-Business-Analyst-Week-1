@@ -1,6 +1,4 @@
-# Process Mapping Guide
-
-Use this guide when you build the As-Is process map.
+# Current State
 
 ## Main Actors and Systems
 
