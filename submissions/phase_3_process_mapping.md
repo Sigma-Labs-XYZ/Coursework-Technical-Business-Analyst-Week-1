@@ -19,7 +19,7 @@ A step is a better Phase 1 candidate if it is:
 - understandable for customers
 
 ## 5 automation opportunities
-1. Self-serve portal for customers to confirm balances and resolve straightforward cases without an agent.
+1. Self-serve portal for customers to confirm balances and get their current account information/summary.
 2. Automated direct payment processing for customers who want to pay their debt on their own schedule/immediately, without waiting for an agent. It should instantly update the core database.
 3. Automated "Promise-to-Pay" setup and tracking, so customers can select a future date to make a payment. The system automatically tracks this date and automatically follows up if the payment is missed via email or SMS. Removes the need for a spreadsheet to track promises and reduces agent time spent on follow-up.
 4. Automated case routing, so that straightforward cases are automatically routed to the self-service portal and complex cases are routed to the appropriate agent or specialist. In terms of complex cases, it should consider vulnerability markers such as history of financial hardship, previous active disputes, high debt (over £5k) or high ageing of more than 90 days past due and multiple broken PTPs. This removes the need for manual triage and reduces the risk of simple cases getting stuck behind complex ones.
