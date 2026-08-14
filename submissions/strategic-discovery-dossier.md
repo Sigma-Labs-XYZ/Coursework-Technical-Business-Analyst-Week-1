@@ -6,6 +6,7 @@ Legacy Trust Bank's debt recovery department uses an outdated manual system whic
 
 ## 2. Stakeholder overview
 
+This table identifies the key stakeholders, their role in the process, and why their input matters.
 [Stakeholder overview](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=883794028#gid=883794028)
 
 ## 3. Discovery questions
@@ -23,6 +24,7 @@ Require stakeholder input:
 
 ## 4. Traceability starter
 
+This table links core claims to source evidence, confidence, and follow-up questions.
 [Traceability matrix](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=361643741#gid=361643741)
 
 ## 5. Final problem statement

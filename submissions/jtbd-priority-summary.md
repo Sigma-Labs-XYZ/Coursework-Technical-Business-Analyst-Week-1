@@ -2,12 +2,14 @@
 
 ## Step 1: Group the evidence
 
+This table summarises the six evidence themes, including root cause, why it matters, evidence volume, and confidence.
 [Evidence theme summary](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=95382498#gid=95382498)
 
 Theme confidence was calculated based on a [confidence rubric](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=1461629866#gid=1461629866) and the confidence of each individual stakeholder quote was determined by the theme confidence.
 
 ## Step 2: Build an evidence table
 
+This table shows representative quotes by stakeholder, mapped to theme, impact, and confidence.
 [Stakeholder evidence table](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=1879132607#gid=1879132607)
 
 This table captures representative stakeholder quotes mapped to each theme, with role, sub-signal, impact, confidence, and supporting note IDs.
@@ -38,6 +40,7 @@ When I lead a collections team through operational change, I want clear sponsors
 
 ## JTBD table
 
+This table lists each JTBD with evidence counts, portal relevance, and overall priority ranking.
 [JTBD table](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=1397865542#gid=1397865542)
 
 ### How portal relevance and priority were set
