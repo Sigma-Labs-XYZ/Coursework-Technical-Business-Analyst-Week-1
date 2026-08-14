@@ -1,6 +1,0 @@
-Opportunity ID,Opportunity Name,Description,Implementation Cost,Minutes Saved per Case,Annual Hours Saved,Annual Cost Saved,Annual Revenue Uplift,Soft Benefit Note,Confidence Level,Priority Rank
-OP-01,Self-serve account summary,PP-01,85000,3,10419.6,229231.2,0,Customer sees their own position without contacting an agent. Reduces the complaint exposure raised in SN-047,Medium,1
-OP-02,Digital promise-to-pay capture,PP-02,85000,1.5,5209.8,114615.6,0,Promise terms recorded consistently rather than in free text,Low,4
-OP-03,Automated follow-up scheduling and reminders,PP-02,45000,0.5,1736.6,38205.2,0,Follow-up commitments become enforceable rather than remembered,Medium,5
-OP-04,Rules-based routing and case claiming,PP-03,85000,2,6946.4,152820.8,0,Removed grounds for duplicate outreach,Medium,3
-OP-05,Automated payment status check,PP-02,45000,1,3473.2,76410.4,0,Managers see live status instead of reconciling three sources,Medium,2

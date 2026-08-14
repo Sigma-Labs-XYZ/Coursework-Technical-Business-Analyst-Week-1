@@ -1,6 +1,0 @@
-Opportunity ID,Opportunity Name,Total Benefit,NET Benefit,ROI Percentage,Payback Months,Effort Score,Confidence Level,Recommendation Note
-OP-01,Self-serve account summary,229231.2,144231.2,169.6837647,4.449656068,3,Medium,Strongest return without relying on any uplift assumption
-OP-02,Digital promise-to-pay capture,114615.6,29615.6,34.84188235,8.899312136,4,Medium,35% on hard savings alone.
-OP-03,Automated follow-up scheduling and reminders,38205.2,-6794.8,-15.09955556,14.13420163,2,Medium,Negative standalone. Only justified as the enabler of OP-02
-OP-04,Rules-based routing and case claiming,152820.8,67820.8,79.78917647,6.674484102,4,Medium,Best evidence base of the five as B-06 is directly counted
-OP-05,Automated payment status check,76410.4,31410.4,69.80088889,7.067100814,2,Medium,"Lowest effort, 70% return"

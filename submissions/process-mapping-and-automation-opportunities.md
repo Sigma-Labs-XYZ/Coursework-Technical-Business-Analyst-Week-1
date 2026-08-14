@@ -1,10 +1,10 @@
 # Process Mapping
 
-The [As-Is diagram](As_Is_diagram.png) shows the current state of the process.
+The [As-Is diagram](as-is-process-map.png) shows the current state of the process.
 
 ## Pain points
 
-Pain points are attached to the relevant element of the [As-Is diagram](As_Is_diagram.png) and are outlined in the [pain points table](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=1562106958#gid=1562106958)
+Pain points are attached to the relevant element of the [As-Is diagram](as-is-process-map.png) and are outlined in the [pain points table](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=1562106958#gid=1562106958)
 
 ## How the current process feels
 

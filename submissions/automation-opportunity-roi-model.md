@@ -27,6 +27,7 @@ Formulas used:
 - Payback months = implementation cost ÷ (annual total benefit ÷ 12)
 
 Effort scale:
+Scores are my own estimates against this scale and are not yet validated with delivery.
 
 1. Configuration only, no new interface
 2. Single rule or scheduled job reading existing data
@@ -47,6 +48,8 @@ Everything counted is sample-scale:
 Monthly case volume is the weakest input:
 A-12 (45,700) is derived from 3,214 distinct accounts over 66 days, then scaled. Two inference steps, Low confidence, and every hours-saved figure depends on it.
 
+The 2.5% uplift for promise capture has no evidential basis. Daniel Okoyo confirmed that it is a finance starter assumption for modelling, not validated by operational evidence. He named the risk as concentration risk, one unvalidated figure driving the whole revenue case. The conservative case therefore sets it to zero.
+
 Some baseline metrics support pain points rather than the model:
 B-06 sizes PP-003, B-07 sizes PP-006, B-08 sizes PP-001. They are evidence for the Phase 3 overlay, not ROI inputs.
 
@@ -59,7 +62,7 @@ Two levers change between the cases. The method is identical in both.
 | Straightforward case share | 0.38 (finance estimate) | 0.774 (observed) |
 | Promise-capture uplift | 0 | 0.025 (finance estimate) |
 
-The conservative case counts hard savings only - agent time removed, priced at A-01. No revenue uplift is claimed. The optimistic case adds the uplift and splits it 40/40/20 across OP-02, OP-03 and OP-05, because capture, enforcement and detection are one chain and none delivers the benefit alone.
+The conservative case counts hard savings only - agent time removed, priced at A-01. No revenue uplift is claimed. The optimistic case adds the uplift and splits it 40/40/20 across OP-02, OP-03 and OP-05, because capture, enforcement and detection are one chain and none delivers the benefit alone. OP-02 records the promise, OP-03 enforces the date, and OP-05 detects whether it was kept. The 40/40/20 split itself is my allocation based on the fact that OP-05's smaller share is evidenced as detection alone recovers nothing. Since the conservative case sets the uplift to zero, the recommendation does not depend on getting this split right.
 
 | | Conservative ROI | Optimistic ROI |
 | --- | --- | --- |
@@ -73,9 +76,3 @@ The ranking inverts:
 OP-03 is worst in one case and best in the other, on no new evidence. — the entire swing comes from one Low-confidence assumption. OP-01 and OP-04 pay back in both cases, and their returns rest on counted figures.
 
 That is the useful result. It separates opportunities that are worth doing regardless from opportunities that are only worth doing if finance's uplift estimate holds.
-
-## Recommendation
-
-Phase 1 should take OP-01, OP-05 and OP-04. All three pay back inside twelve months in the conservative case, without relying on any revenue uplift. OP-01 has the strongest return of the three and needs only a read-only screen. OP-05 is the cheapest thing on the list and removes a check nobody should be doing by hand. OP-04 has the best evidence behind it — `duplicate_check_flag = Y` on 20.4% of activity rows is counted, not estimated — and it fixes the cause of duplicate outreach rather than the symptom, which is what Gareth asked for. OP-04 carries higher effort than its return alone would justify, and it is included because the evidence is the firmest and the problem is structural.
-
-OP-02 and OP-03 are deferred, but not dropped. Both look extraordinary in the optimistic case and neither stands up in the conservative one. OP-03 is negative on its own numbers while being the mechanism that would deliver OP-02's uplift, so they only make sense scoped together. Before either enters a build, finance needs to say how the 2.5% uplift was arrived at. For Week 2 this means scope is set by the three conservative winners, and the first analysis task is closing the two open questions: the straightforward-share disagreement with Amina, and the basis for A-08 with Daniel. There is also a prerequisite that blocks any self-service routing — SN-070 says vulnerable customers are not flagged differently, and no field in the export identifies them, so the routing rule cannot exclude them today.

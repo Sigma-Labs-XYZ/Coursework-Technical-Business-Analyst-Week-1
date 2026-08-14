@@ -11,7 +11,7 @@ Theme confidence was calculated based on a [confidence rubric](https://docs.goog
 [Stakeholder evidence table](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=1879132607#gid=1879132607)
 
 This table captures representative stakeholder quotes mapped to each theme, with role, sub-signal, impact, confidence, and supporting note IDs.
-Exact duplicates and vague/non-specific notes were excluded before final coding; see [Excluded notes](excluded_notes.csv).
+Exact duplicates and vague/non-specific notes were excluded before final coding; see [Excluded notes](../data/excluded_notes.csv).
 
 ## Step 3: Write JTBD statements
 

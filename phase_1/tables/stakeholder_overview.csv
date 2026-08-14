@@ -1,6 +1,0 @@
-Stakeholder Group,What they care about,How success is measured,Main worry,Evidence they will trust
-Operations Leadership,Agent time lost due to duplicate checks and manual tracking,"A clear map of where work breaks down, and a future state her team can follow",A recommendation pretending every case automates cleanly,Evidence of where missed follow-ups and wasted handling time happen
-Team leaders and Agents,The As-Is documented honestly,A clear process map,A portal that looks good on paper while hard cases still land on agents,A future state showing where agent work begins and ends
-Finance,Value leaking from the manual process (15% revenue loss from delayed actions),Clear numbers for each opportunity with savings and assumptions behind each,Numbers that fail when challenged,"Transparent assumptions, sensitivity testing, and hard savings kept separate from uplift"
-Product & Delivery,Discovery documented well enough to shape a backlog,Outputs delivery teams can work with later,Work that's good enough to pass but not to build on,Traceability from pain point to requirement
-Customers,Resolving straightforward cases without waiting for an agent,"No slow, repetetive contact journeys",Being sent to a portal that can't handle their situation,Seeing what they owe and sorting it in one go

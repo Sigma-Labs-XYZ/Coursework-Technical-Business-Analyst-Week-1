@@ -1,9 +1,0 @@
-Metric ID,Metric Name,Current Value,Unit,Source,Confidence Level,Notes
-B-01,total_delinquent_accounts,100000,accounts,Case study statement,Medium,"Stated in the brief as more than 100,000"
-B-02,straightforward_case_volume_per_month,"35,400",cases per month,Derived (see notes),Low,A-11 multiplied by observed self-service share of 0.774. Using A-03 (0.38) instead gives 17400 cases per month. Both carried into sensitivity testing.
-B-03,avg_handling_time_straightforward_case,21.5,minutes,Derived from recovery_activity_tracker (see notes),High,69226 total minutes_spent divided by 3214 distinct account_id. Measured per account not per activity
-B-04,admin_hours_per_day_lost_to_reconciliation,7,hours per day,Derived from recovery_activity_tracker (see notes),Medium,"19470 minutes for spreadsheet_reconcile and status_check, divided by 60, divided by 46 working days. "
-B-05,missed_follow_up_rate,0.148,N/A,Derived from recovery_activity_tracker (see notes),High,1465 of 9890 rows have a blank next_follow_up_date. Close to 0.14 estimate (FA-06) which stregthens the whole model
-B-06,duplicate_check_rate,0.204,N/A,Derived from recovery_activity_tracker (see notes),High,2020 of 9890 rows have a duplicate_check_flag = Y
-B-07,unresolved_next_action_share,0.254,N/A,Derived from recovery_activity_tracker (see notes),High,2508 of 9890 rows have outcome_code of next_action_unclear or awaiting_review
-B-08,non_outcome_activity_share,0.249,N/A,Derived from recovery_activity_tracker (see notes),High,17238 of 69226 minutes_spent against outcome_code of viewed_status or updated_row
