@@ -40,6 +40,8 @@ Scores are my own estimates against this scale and are not yet validated with de
 The straightforward-case share is contested:
 Finance assumed 0.38 (A-03). The accounts export flags 77.4% of accounts as `self_service_candidate = Y` with `risk_flag = N` (A-04). That is a factor of two on the input that drives every volume figure. Both are carried through as the conservative and optimistic levers rather than picking one. 
 
+The minutes saved allocation is my own. The total of 8 minutes saved is bounded by A-05 minus A-06, so the model cannot overclaim. The split between opportunities is weighted toward the activity each displaces (B-08 for OP-01, B-06 for OP-04) but the specific values are judgement, not measurement. I have checked with Amina and this allocation sounded reasonable. Since they drive the conservative raking, they are the input most worth challenging. 
+
 Missed follow-up rate is where estimate and observation agree: Finance held 0.14; the data gives 0.148 (B-05). That corroboration is what makes the rest of the model credible, and it is why the disagreement above reads as a finding rather than as bad data.
 
 Everything counted is sample-scale:
