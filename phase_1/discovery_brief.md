@@ -1,6 +1,4 @@
-# Discovery Brief Template
-
-Use this file to create your one-page discovery brief for Legacy-Trust Bank.
+# Discovery Brief
 
 ## 1. Problem summary
 

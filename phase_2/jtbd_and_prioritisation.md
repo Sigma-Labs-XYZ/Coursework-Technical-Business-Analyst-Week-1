@@ -1,10 +1,10 @@
-# JTBD and Prioritisation Template
+# JTBD and Prioritisation
 
 ## Step 1: Group the evidence
 
 [Evidence theme summary](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=95382498#gid=95382498)
 
-Theme confidence was calculated based on a [confidence rubric](confidence_rubric.csv) and the confidence of each individual stakeholder quote was determined by the theme confidence.
+Theme confidence was calculated based on a [confidence rubric](https://docs.google.com/spreadsheets/d/1s_VAkF6BfqbuDBFMO-3JWp2epwHLnhYLYTk04nKr3CY/edit?gid=1461629866#gid=1461629866) and the confidence of each individual stakeholder quote was determined by the theme confidence.
 
 ## Step 2: Build an evidence table
 
@@ -72,9 +72,3 @@ Top 3 unmet jobs were selected from the [JTBD table](https://docs.google.com/spr
 - Evidence: Medium-frequency signal from SN-001; SN-002; SN-017; SN-028; SN-036; SN-047; SN-065.
 - Influence on Phase 1 scope: Prioritise clear customer case visibility, next-step guidance, and clean self-serve-to-agent routing.
 
-## Quality check
-
-Ask yourself:
-- Does this describe a need instead of a feature?
-- Would the job still exist if the screen or tool changed?
-- Can I point to real evidence behind the priority?

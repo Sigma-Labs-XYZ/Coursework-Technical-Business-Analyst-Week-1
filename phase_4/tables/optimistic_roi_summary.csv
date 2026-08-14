@@ -1,0 +1,6 @@
+Opportunity ID,Opportunity Name,Total Benefit,NET Benefit,ROI Percentage,Payback Months,Effort Score,Confidence Level,Recommendation Note
+OP-01,Self-serve account summary,466907.76,381907.76,449.3032471,2.184585666,3,Medium,Depends only on the observed 0.774 straightforward case share
+OP-02,Digital promise-to-pay capture,1193453.88,1108453.88,1304.063388,0.8546622681,4,Low,Depends a lot on the revenue uplift from promise capture
+OP-03,Automated follow-up scheduling and reminders,1037817.96,992817.96,2206.262133,0.5203224658,2,Low,Depends a lot on the revenue uplift from promise capture
+OP-04,Rules-based routing and case claiming,311271.84,226271.84,266.2021647,3.2768785,4,Medium,Depends only on the observed 0.774 straightforward case share
+OP-05,Automated payment status check,635635.92,590635.92,1312.524267,0.849542927,2,Low,Depends a lot on the revenue uplift from promise capture
