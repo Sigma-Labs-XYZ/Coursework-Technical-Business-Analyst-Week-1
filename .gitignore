@@ -10,8 +10,7 @@ Thumbs.db
 *.bak
 
 # Exported working files
-*.pdf
-*.png
+
 *.jpg
 *.jpeg
 
