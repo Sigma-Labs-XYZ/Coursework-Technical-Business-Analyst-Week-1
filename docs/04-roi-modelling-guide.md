@@ -25,8 +25,8 @@ Always separate:
 - contact detail confirmation or update request
 - digital promise-to-pay capture
 - eligible payment-plan selection
-- rules-based routing to agents
-- portal interaction history for agents
+- rules-based routing to representatives
+- portal interaction history for representatives
 - automated follow-up reminders
 
 ## Simple formulas

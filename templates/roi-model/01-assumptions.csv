@@ -1,5 +1,5 @@
 assumption_id,assumption_name,value,unit,source,confidence_level,notes
-A-01,agent_hourly_cost,,,TODO,TODO,Fill from finance assumptions sample or your own justified value
+A-01,representative_hourly_cost,,,TODO,TODO,Fill from finance assumptions sample or your own justified value
 A-02,straightforward_case_share,,,TODO,TODO,Record whether this is data-derived or estimated
 A-03,minutes_saved_per_case_balance_view,,,TODO,TODO,Use scenario-based assumptions
 A-04,minutes_saved_per_case_promise_capture,,,TODO,TODO,Use scenario-based assumptions

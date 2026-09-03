@@ -28,7 +28,7 @@ Use the structure:
 
 Minimum coverage:
 - customer
-- agent
+- representative
 - operations manager
 - finance partner
 

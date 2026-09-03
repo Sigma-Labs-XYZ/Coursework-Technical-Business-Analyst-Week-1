@@ -16,7 +16,7 @@ Complete a short table like the one below.
 | Stakeholder group | What they care about | How success is measured | Main worry | Evidence they will trust |
 |---|---|---|---|---|
 | Operations leadership | TODO | TODO | TODO | TODO |
-| Team leaders and agents | TODO | TODO | TODO | TODO |
+| Team leaders and representatives | TODO | TODO | TODO | TODO |
 | Finance | TODO | TODO | TODO | TODO |
 | Product and delivery | TODO | TODO | TODO | TODO |
 | Customers | TODO | TODO | TODO | TODO |

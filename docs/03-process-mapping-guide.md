@@ -5,7 +5,7 @@ Use this guide when you build the As-Is process map.
 ## Minimum actors and systems to include
 
 - customer
-- collections agent
+- collections representative
 - team leader or manager
 - spreadsheet tracker
 - email or manual communication channel
@@ -14,10 +14,10 @@ Use this guide when you build the As-Is process map.
 ## Suggested As-Is flow
 
 1. Account enters delinquency queue
-2. Agent creates or receives worklist
-3. Agent checks legacy account status
-4. Agent cross-checks spreadsheet or email history
-5. Agent contacts customer
+2. Representative creates or receives worklist
+3. Representative checks legacy account status
+4. Representative cross-checks spreadsheet or email history
+5. Representative contacts customer
 6. Outcome is captured manually
 7. Promise or next action is tracked manually
 8. Follow-up is scheduled manually
@@ -43,7 +43,7 @@ A step is a better Phase 1 candidate if it is:
 - low to medium risk
 - understandable for customers
 
-## Keep agent-led if the step is:
+## Keep representative-led if the step is:
 - high-risk
 - specialist-controlled
 - judgment-heavy

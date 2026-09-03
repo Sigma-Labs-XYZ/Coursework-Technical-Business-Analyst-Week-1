@@ -1,5 +1,5 @@
 item_type,source_reference,stakeholder_concern,related_process_area,related_jtbd,possible_metric,likely_deliverable,status
-stakeholder_note,SN-01,Agents repeat checks before acting,manual_status_verification,TODO,duplicate_check_rate,discovery_dossier,TODO
+stakeholder_note,SN-01,Representatives repeat checks before acting,manual_status_verification,TODO,duplicate_check_rate,discovery_dossier,TODO
 stakeholder_note,SN-03,Finance needs defensible assumptions,roi_model_governance,TODO,source_confidence_coverage,roi_model,TODO
-stakeholder_note,SN-07,Routed cases must return with context,agent_handoff,TODO,routed_case_context_visibility,to_be_workflow,TODO
+stakeholder_note,SN-07,Routed cases must return with context,representative_handoff,TODO,routed_case_context_visibility,to_be_workflow,TODO
 pain_point,ADD-YOUR-OWN,TODO,TODO,TODO,TODO,TODO,TODO
