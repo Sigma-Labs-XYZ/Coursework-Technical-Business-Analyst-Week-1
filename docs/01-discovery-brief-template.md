@@ -4,10 +4,7 @@ Use this file to create your one-page discovery brief for Legacy-Trust Bank.
 
 ## 1. Problem summary
 
-Write 80-120 words answering:
-- What is happening now?
-- Why is it failing at scale?
-- Why does it matter financially and operationally?
+
 
 ## 2. Stakeholder overview
 
