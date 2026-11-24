@@ -1,6 +1,0 @@
-metric_id,metric_name,current_value,unit,source,confidence_level,notes
-B-01,total_delinquent_accounts,,,data_extract,TODO,
-B-02,straightforward_case_volume_per_month,,,analysis,TODO,
-B-03,avg_handling_time_straightforward_case,,,minutes,TODO,
-B-04,admin_hours_per_day_lost_to_reconciliation,,,hours,TODO,
-B-05,missed_follow_up_rate,,,ratio,TODO,

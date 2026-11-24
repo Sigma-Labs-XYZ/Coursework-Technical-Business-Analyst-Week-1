@@ -4,13 +4,11 @@ Build the discovery and value-case materials that turn Legacy-Trust Bank's colle
 
 ## How to use this project
 
-1. Follow the curriculum challenges, which say what each phase needs you to produce. Optional templates are in dropdowns on the challenge pages.
-2. Use the CSV tabs in `templates/roi-model/` as a starter workbook.
-3. Write your finished Week 1 outputs into `submissions/`.
+1. Follow the curriculum challenges, which say what each phase needs you to produce. Worked examples are in dropdowns on the challenge pages.
+2. Write your finished Week 1 outputs into `submissions/`.
 
 ## Files explained
 
-- `templates/` - starter ROI workbook tabs
 - `submissions/` - where you place your completed Week 1 deliverables
 
 ## Tests
