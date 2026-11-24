@@ -10,7 +10,6 @@ Build the discovery and value-case materials that turn Legacy-Trust Bank's colle
 
 ## Files explained
 
-- `docs/` - guidance for the ROI model
 - `templates/` - starter ROI workbook tabs
 - `submissions/` - where you place your completed Week 1 deliverables
 
