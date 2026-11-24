@@ -2,7 +2,7 @@
 
 Use this guide when you build the As-Is process map.
 
-## Minimum actors and systems to include
+## Actors and systems to consider
 
 - customer
 - collections representative
@@ -26,7 +26,7 @@ Use this guide when you build the As-Is process map.
 
 ## Pain points to mark on the flow
 
-Mark at least five directly on the map:
+Mark the pain points directly on the map, for example:
 - duplicate status checks
 - spreadsheet version or ownership conflict
 - missed next action due to manual tracking
@@ -49,9 +49,3 @@ A step is a better Phase 1 candidate if it is:
 - judgment-heavy
 - dependent on negotiation or exception handling
 
-## Deliverables to produce from the map
-
-- As-Is process map
-- pain-point overlay
-- short current-state summary
-- first-pass automation candidate list

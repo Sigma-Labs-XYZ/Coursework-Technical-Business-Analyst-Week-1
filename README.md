@@ -18,15 +18,6 @@ This standalone coursework project helps you complete Week 1 of the course:
 3. Use the CSV tabs in `templates/roi-model/` as a starter workbook.
 4. Write your finished Week 1 outputs into `submissions/`.
 
-## How to check your progress
-
-You are on track if you can produce:
-- a completed problem statement
-- a stakeholder evidence table and prioritised JTBD list
-- an As-Is process map with pain points marked directly on the flow
-- a ranked opportunity model covering at least 5 automation ideas
-- a short Phase 1 recommendation summary
-
 ## Files explained
 
 - `docs/` - step-by-step guidance and templates for written outputs
@@ -35,4 +26,4 @@ You are on track if you can produce:
 
 ## Tests
 
-There is no automated test suite for this week. Your quality checks are built into the templates and review prompts inside `docs/` and `submissions/README.md`.
+There is no automated test suite for this week. Your quality checks are built into the curriculum challenges. Use the templates here as a starting point, and organise your work however suits you.

@@ -26,7 +26,7 @@ Use the structure:
 **I want to** ...  
 **So that** ...
 
-Minimum coverage:
+Suggested coverage:
 - customer
 - representative
 - operations manager
@@ -38,9 +38,9 @@ Minimum coverage:
 |---|---|---|---|---|---|
 | JTBD-01 | TODO | TODO | TODO | TODO | TODO |
 
-## Step 4: Top 3 justification
+## Step 4: Justify your top priorities
 
-For each of your top 3 JTBDs, write:
+For each of your top JTBDs, write:
 - why it matters now
 - which evidence supports it
 - how it should influence Phase 1

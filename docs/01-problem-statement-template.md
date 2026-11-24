@@ -25,7 +25,7 @@ Complete a short table like the one below.
 
 ## 3. Discovery questions
 
-Write 5-7 questions that point toward evidence.
+Write the questions that point toward evidence.
 
 Starter examples:
 - Which steps in debt recovery are high-volume and rules-driven enough for self-service?
