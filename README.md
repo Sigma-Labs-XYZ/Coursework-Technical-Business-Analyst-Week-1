@@ -14,10 +14,9 @@ This standalone coursework project helps you complete Week 1 of the course:
 ## How to use this project
 
 1. Read `docs/01-problem-statement-template.md`.
-2. Populate the evidence tables in `templates/`.
-3. Use `templates/miro-board-structure.md` to build your board layout.
-4. Use the CSV tabs in `templates/roi-model/` as a starter workbook.
-5. Write your finished Week 1 outputs into `submissions/`.
+2. Work through the templates and guides in `docs/`.
+3. Use the CSV tabs in `templates/roi-model/` as a starter workbook.
+4. Write your finished Week 1 outputs into `submissions/`.
 
 ## How to check your progress
 
@@ -31,7 +30,7 @@ You are on track if you can produce:
 ## Files explained
 
 - `docs/` - step-by-step guidance and templates for written outputs
-- `templates/` - reusable tables, ROI workbook tabs, and board structures
+- `templates/` - starter ROI workbook tabs
 - `submissions/` - where you place your completed Week 1 deliverables
 
 ## Tests

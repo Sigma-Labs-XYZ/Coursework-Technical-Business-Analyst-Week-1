@@ -1,6 +1,6 @@
 # ROI model starter tabs
 
-This folder contains CSV files you can import into Excel or Google Sheets as separate tabs.
+This folder contains CSV files you can import into a spreadsheet as separate tabs.
 
 ## Files in this folder
 

@@ -4,10 +4,13 @@ Place your finished Week 1 artefacts here.
 
 ## Expected outputs
 
-- `discovery.md` or `.docx`
-- `jtbd-priority-summary.md`
+- `discovery.md` or `.docx` (problem statement, stakeholder overview and discovery questions)
+- `jtbd-priority-summary.md` (includes your stakeholder evidence table)
 - `as-is-process-map.pdf` or link note
-- `automation-opportunity-roi-model.xlsx`
+- `pain-point-overlay.pdf` or link note (or mark pain points directly on the As-Is map)
+- `current-state-analysis-summary.md`
+- `automation-opportunity-list.md`
+- `automation-opportunity-roi-model` (spreadsheet or link note)
 - `week-1-recommendation-summary.md`
 
 ## Suggested working order

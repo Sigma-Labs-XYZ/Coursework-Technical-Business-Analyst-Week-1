@@ -4,8 +4,7 @@ This folder holds reusable working files for Week 1.
 
 ## Files and folders
 
-- `miro-board-structure.md` - recommended board frames for discovery work
-- `roi-model/` - starter CSV tabs for your Excel workbook
+- `roi-model/` - starter CSV tabs for your ROI spreadsheet
 
 ## How to use these templates
 
