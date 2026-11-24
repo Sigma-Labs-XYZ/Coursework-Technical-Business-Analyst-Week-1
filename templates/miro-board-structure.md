@@ -11,9 +11,8 @@ Use these frames to keep your Week 1 board clear and reviewable.
 5. As-Is process map
 6. Pain-point overlay
 7. Automation opportunity shortlist
-8. To-Be sketch
-9. Prioritisation matrix
-10. Open questions and assumptions
+8. Prioritisation matrix
+9. Open questions and assumptions
 
 ## Suggested colour key
 

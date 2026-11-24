@@ -1,13 +1,15 @@
-# Discovery Brief Template
+# Problem Statement Template
 
-Use this file to create your one-page discovery brief for Legacy-Trust Bank.
+Use this file to write your problem statement for Legacy-Trust Bank, along with your stakeholder overview and discovery questions.
 
-## 1. Problem summary
+## 1. Problem statement
 
-Write 80-120 words answering:
-- What is happening now?
-- Why is it failing at scale?
-- Why does it matter financially and operationally?
+Write a short, concise and simple problem statement that says:
+- what is happening now
+- why it is failing at scale
+- why it matters financially and operationally
+
+> Tip: if your statement still sounds like 'the bank needs digital transformation,' it is too broad.
 
 ## 2. Stakeholder overview
 
@@ -29,17 +31,3 @@ Starter examples:
 - Which steps in debt recovery are high-volume and rules-driven enough for self-service?
 - Where do spreadsheets and manual handoffs create duplicate work?
 - Which baseline metrics best show operational waste and revenue leakage?
-
-## 4. Traceability starter
-
-Create a first-pass table.
-
-| Stakeholder concern | Likely process area affected | Possible metric or evidence source | Likely deliverable |
-|---|---|---|---|
-| TODO | TODO | TODO | TODO |
-
-## 5. Final problem statement
-
-End with a concise problem statement in your own words.
-
-> Tip: if your statement still sounds like 'the bank needs digital transformation,' it is too broad.

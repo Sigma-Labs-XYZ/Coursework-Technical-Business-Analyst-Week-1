@@ -4,16 +4,15 @@ Place your finished Week 1 artefacts here.
 
 ## Expected outputs
 
-- `strategic-discovery-dossier.md` or `.docx`
+- `discovery.md` or `.docx`
 - `jtbd-priority-summary.md`
 - `as-is-process-map.pdf` or link note
-- `to-be-process-sketch.pdf` or link note
 - `automation-opportunity-roi-model.xlsx`
 - `week-1-recommendation-summary.md`
 
 ## Suggested working order
 
-1. Discovery brief
+1. Problem statement
 2. JTBD prioritisation
 3. As-Is map
 4. ROI model
