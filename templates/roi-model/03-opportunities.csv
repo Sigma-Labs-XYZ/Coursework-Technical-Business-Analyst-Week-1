@@ -1,6 +1,0 @@
-opportunity_id,opportunity_name,description,implementation_cost,annual_hours_saved,annual_cost_saved,annual_revenue_uplift,soft_benefit_note,confidence_level,priority_rank
-OP-01,Self-serve account summary,TODO,,,,,,,
-OP-02,Digital promise-to-pay capture,TODO,,,,,,,
-OP-03,Eligible payment-plan selection,TODO,,,,,,,
-OP-04,Contact detail update request,TODO,,,,,,,
-OP-05,Rules-based routing,TODO,,,,,,,
